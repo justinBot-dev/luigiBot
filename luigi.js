@@ -21,18 +21,4 @@ client.on("message", (m) => {
 });
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-client.login("ODA5NDc4OTE1MTg5ODk5MzE0.YCVr_A.PS8MLSFBJs8rTzhBQQ6B-reo0tw");
+client.login("Special Bot Token Here");
